@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\02-Testes de unidade"
+    "\\02-Testes",
+    "\\02-Testes\\Store.Domain",
+    "\\02-Testes\\Store.Domain\\Entities",
+    "\\02-Testes\\Store.Domain\\Enums",
+    "\\02-Testes\\Store.Domain\\Queries"
   ],
+  "SelectedNode": "\\02-Testes\\Store.Domain\\Entities\\Order.cs",
   "PreviewInSolutionExplorer": false
 }

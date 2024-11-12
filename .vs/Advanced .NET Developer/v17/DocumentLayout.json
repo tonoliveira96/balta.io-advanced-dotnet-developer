@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02-Testes\\Store.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Queries\\ProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:02-Testes\\Store.Domain\\Queries\\ProductQueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "02-Testes\\Store.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Entities\\Order.cs*",
+              "RelativeToolTip": "02-Testes\\Store.Domain\\Entities\\Order.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:12:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductQueries.cs",
+              "DocumentMoniker": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Queries\\ProductQueries.cs",
+              "RelativeDocumentMoniker": "02-Testes\\Store.Domain\\Queries\\ProductQueries.cs",
+              "ToolTip": "C:\\Users\\everton.oliveira\\Documents\\Balta.io\\Advanced .NET Developer\\02-Testes\\Store.Domain\\Queries\\ProductQueries.cs*",
+              "RelativeToolTip": "02-Testes\\Store.Domain\\Queries\\ProductQueries.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:07:25.8Z",
+              "EditorCaption": ""
             }
           ]
         }
