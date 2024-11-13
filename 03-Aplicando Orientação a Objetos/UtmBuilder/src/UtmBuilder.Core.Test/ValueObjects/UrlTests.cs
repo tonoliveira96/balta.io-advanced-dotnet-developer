@@ -18,7 +18,7 @@ namespace UtmBuilder.Core.Test.ValueObjects
         {
             var url = new Url(ValidUrl);
 
-            Assert.Equal(ValidUrl, url.Adress);
+            Assert.Equal(ValidUrl, url.Address);
         }
     }
 }

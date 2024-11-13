@@ -10,13 +10,13 @@ namespace UtmBuilder.Core.ValueObjects
         /// <param name="adress"></param>
         public Url(string adress)
         {
-            Adress = adress;
+            Address = adress;
             InvalidUrlException.ThrowIfInvalid(adress);
         }
 
         /// <summary>
         /// Adress of URL (Website link)
         /// </summary>
-        public string Adress { get; }
+        public string Address { get; }
     }
 }

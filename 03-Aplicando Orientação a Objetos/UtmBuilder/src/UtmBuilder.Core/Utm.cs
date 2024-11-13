@@ -29,7 +29,7 @@ namespace UtmBuilder.Core
                 throw new InvalidUrlException();
 
             var url = new Url(link);
-            var segments = url.Adress.Split("?");
+            var segments = url.Address.Split("?");
             if(segments.Length == 1 )
                 throw new InvalidUrlException("No segments were provider");
 
@@ -58,7 +58,7 @@ namespace UtmBuilder.Core
             segments.AddIfNotNull("utm_term", Campaign.Term);
             segments.AddIfNotNull("utm_content", Campaign.Content);
 
-            return $"{Url.Adress}?{string.Join("&", segments)}";
+            return $"{Url.Address}?{string.Join("&", segments)}";
         }
     }
 }
